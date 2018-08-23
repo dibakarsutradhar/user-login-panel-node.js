@@ -3,13 +3,13 @@ ___
 
 # Technology Used - 
 
-**Node.js**
-**Expressjs**
-**Passportjs**
-**Bcryptjs Hashing Library**
-**Flash**
-**MongoDB for Database**
-**Jade(PUG)**
+* **Node.js**
+* **Expressjs**
+* **Passportjs**
+* **Bcryptjs Hashing Library**
+* **Flash**
+* **MongoDB for Database**
+* **Jade(PUG)**
 ___
 
 ## To Start this project
