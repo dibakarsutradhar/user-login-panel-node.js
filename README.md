@@ -15,6 +15,10 @@ ___
 ## To Start this project
 
 ```
+npm install
+```
+
+```
 npm start
 ```
 ___
